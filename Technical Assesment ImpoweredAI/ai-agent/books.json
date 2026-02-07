@@ -1,0 +1,604 @@
+{
+  "books": [
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "Frankenstein or The Modern Prometheus",
+      "author": "Mary Shelley",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Wonderful Wizard of Oz",
+      "author": "L. Frank Baum",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Time Machine",
+      "author": "H. G. Wells",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Lost World",
+      "author": "Arthur Conan Doyle",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Jewel of Seven Stars",
+      "author": "Bram Stoker",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Iron Heel",
+      "author": "Jack London",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "Flatland",
+      "author": "Edwin Abbott Abbott",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Invisible Man",
+      "author": "H. G. Wells",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Princess and Curdie",
+      "author": "George MacDonald",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The War of the Worlds",
+      "author": "H. G. Wells",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Napoleon of Notting Hill",
+      "author": "Gilbert Keith Chesterton",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Last Man",
+      "author": "Mary Shelley",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "Le Tour du Monde en Quatre-Vingts Jours",
+      "author": "Jules Verne",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "Vingt mille lieues sous les mers",
+      "author": "Jules Verne",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "author": "Robert Louis Stevenson",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "News from nowhere, or, An epoch of rest, being some chapters from a utopian romance",
+      "author": "William Morris",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Poison Belt",
+      "author": "Arthur Conan Doyle",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Secret Agent",
+      "author": "Joseph Conrad",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Machine Stops",
+      "author": "E. M. Forster",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Island of Dr. Moreau",
+      "author": "H. G. Wells",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "After London",
+      "author": "Richard Jefferies",
+      "first_published_year": null,
+      "subject": "science_fiction"
+    },
+    {
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Adventures of Sherlock Holmes [12 stories]",
+      "author": "Arthur Conan Doyle",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Man Who Was Thursday",
+      "author": "Gilbert Keith Chesterton",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Mysterious Affair at Styles",
+      "author": "Agatha Christie",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Secret Adversary",
+      "author": "Agatha Christie",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "The mystery of Edwin Drood",
+      "author": "Charles Dickens",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "His Last Bow [8 stories]",
+      "author": "Arthur Conan Doyle",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Riddle of the Sands",
+      "author": "Erskine Childers",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "Greenmantle",
+      "author": "John Buchan",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "\u041f\u0440\u0435\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u043d\u0430\u043a\u0430\u0437\u0430\u043d\u0438\u0435",
+      "author": "\u0424\u0451\u0434\u043e\u0440 \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0438\u0447 \u0414\u043e\u0441\u0442\u043e\u0435\u0432\u0441\u043a\u0438\u0439",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "Trent's Last Case",
+      "author": "E. C. Bentley",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "Prester John",
+      "author": "John Buchan",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "Whose Body?",
+      "author": "Dorothy L. Sayers",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "Basil",
+      "author": "Wilkie Collins",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Black Robe",
+      "author": "Wilkie Collins",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "Murder on the Links",
+      "author": "Agatha Christie",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "Fifty Candles",
+      "author": "Earl Derr Biggers",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Angel of Terror",
+      "author": "Edgar Wallace",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "Murder on the Orient Express",
+      "author": "Agatha Christie",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Amateur Cracksman",
+      "author": "E. W. Hornung",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Murder of Roger Ackroyd",
+      "author": "Agatha Christie",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "Poirot investigates",
+      "author": "Agatha Christie",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "The After House",
+      "author": "Mary Roberts Rinehart",
+      "first_published_year": null,
+      "subject": "mystery"
+    },
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Wonderful Wizard of Oz",
+      "author": "L. Frank Baum",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "A Midsummer Night's Dream",
+      "author": "William Shakespeare",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Prince",
+      "author": "Niccol\u00f2 Machiavelli",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Through the Looking-Glass",
+      "author": "Lewis Carroll",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Five Children and It",
+      "author": "Edith Nesbit",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Princess and the Goblin",
+      "author": "George MacDonald",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Lost World",
+      "author": "Arthur Conan Doyle",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Marvelous Land of Oz",
+      "author": "L. Frank Baum",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Ozma of Oz",
+      "author": "L. Frank Baum",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Le petit prince",
+      "author": "Antoine de Saint-Exup\u00e9ry",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Emerald City of Oz",
+      "author": "L. Frank Baum",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Dorothy and the Wizard in Oz",
+      "author": "L. Frank Baum",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Lost Princess of Oz",
+      "author": "L. Frank Baum",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Story of the Amulet",
+      "author": "Edith Nesbit",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Complete Life and Adventures of Santa Claus",
+      "author": "L. Frank Baum",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Alice's Adventures in Wonderland / Through the Looking Glass",
+      "author": "Lewis Carroll",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Road to Oz",
+      "author": "L. Frank Baum",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Sea Fairies",
+      "author": "L. Frank Baum",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Baum's American Fairy Tales",
+      "author": "L. Frank Baum",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Sky Island",
+      "author": "L. Frank Baum",
+      "first_published_year": null,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "The Mysterious Affair at Styles",
+      "author": "Agatha Christie",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "The Thirty-Nine Steps",
+      "author": "John Buchan",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "The Jewel of Seven Stars",
+      "author": "Bram Stoker",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "The Red Badge of Courage",
+      "author": "Stephen Crane",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "The Prisoner of Zenda",
+      "author": "Anthony Hope",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "The Riddle of the Sands",
+      "author": "Erskine Childers",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "The deerslayer",
+      "author": "James Fenimore Cooper",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "Mr. Standfast",
+      "author": "John Buchan",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "The Pathfinder",
+      "author": "James Fenimore Cooper",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "Le Tour du Monde en Quatre-Vingts Jours",
+      "author": "Jules Verne",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "White Fang",
+      "author": "Jack London",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "Vingt mille lieues sous les mers",
+      "author": "Jules Verne",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "The pioneers",
+      "author": "James Fenimore Cooper",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "Kidnapped",
+      "author": "Robert Louis Stevenson",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "A strange disappearance",
+      "author": "Anna Katharine Green",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "The Evil Shepherd",
+      "author": "Edward Phillips Oppenheim",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "Otto of the Silver Hand",
+      "author": "Howard Pyle",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "An American Tragedy",
+      "author": "Theodore Dreiser",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "Voyage au Centre de la Terre",
+      "author": "Jules Verne",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "The Beetle",
+      "author": "Richard Marsh",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "The Four Just Men",
+      "author": "Edgar Wallace",
+      "first_published_year": null,
+      "subject": "thriller"
+    },
+    {
+      "title": "A Tale of Three Lions",
+      "author": "H. Rider Haggard",
+      "first_published_year": null,
+      "subject": "thriller"
+    }
+  ]
+}
